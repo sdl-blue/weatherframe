@@ -15,7 +15,7 @@ So I asked myself, how would I like to see the information when I'm at home? Thi
   - Because this one has a depth of almost 3cm
 
 ## My little helpers
-- Energy (Thank you Edison)
+- Energy (Thank you Benjamin)
 - 2 Really small screws to mount the pi to the rear plate of the frame
 - Hammer and Nail
 - Keyboard
